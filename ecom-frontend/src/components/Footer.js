@@ -14,11 +14,11 @@ const footer = () => {
             <h5 className="title">Contact.</h5>
             <ul className="pad">
               <li className="list-unstyled">
-                <a href="#!">+91-9898884300 📞</a>
+                <a href="#!">+91-9999999999 📞</a>
               </li>
               <li className="list-unstyled">
                 <a href="#!">
-                  +91-9898884300{" "}
+                  +91-9999999999{" "}
                   <img
                     src="https://img.icons8.com/office/16/000000/whatsapp--v1.png"
                     alt="whatsapp"
@@ -26,8 +26,8 @@ const footer = () => {
                 </a>
               </li>
               <li className="list-unstyled">
-                <a href="mailto:rajsolutionssurat@gmailcom">
-                  rajsolutionssurat@gmailcom 📧
+                <a href="mailto:testemail@gmailcom">
+                  testemail@gmailcom 📧
                 </a>
               </li>
             </ul>
@@ -40,7 +40,7 @@ const footer = () => {
           <a>
             {" "}
             Rajsolutions made with ❤️ by{" "}
-            <a href="https://pratiktiwari-84f71.web.app/">Pratik Tiwari</a>{" "}
+            <a href="https://weburetech.com/">Webure Technologies</a>{" "}
           </a>
         </Container>
       </div>
